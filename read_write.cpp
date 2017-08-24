@@ -1,4 +1,4 @@
-v/*
+/*
 	Name: read_write.cpp
 	Copyright: GPLv3.0
 	Author: xukl
