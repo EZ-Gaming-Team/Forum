@@ -1,6 +1,6 @@
-/*
+v/*
 	Name: read_write.cpp
-	Copyright: GPL 
+	Copyright: GPLv3.0
 	Author: xukl
 	Date: 24/08/17 16:07
 	Description: MY VERSION of FAST(?) I/O with integer
